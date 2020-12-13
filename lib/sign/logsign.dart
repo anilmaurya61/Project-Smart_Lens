@@ -67,7 +67,7 @@ class SignIn extends StatelessWidget {
                           Navigator.push(
                               context,
                               MaterialPageRoute(
-                                  builder: (context) => LoginPage()));
+                                  builder: (context) => Login()));
                         },
                         shape: RoundedRectangleBorder(
                             side: BorderSide(color: Colors.black),
