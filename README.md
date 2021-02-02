@@ -1,5 +1,5 @@
-## smartlens
-#Empowering Visually Impaired people through Technology...
+### Smart Lens
+## Empowering Visually Impaired people through Technology...
 There are almost 285 million people across the globe, who are suffering from the problem of Vision Impairment, out of which, 13% people have no vision. There are a lot of problems faced by them on a regular basis. A lot of them can be resolved by using Technology. But even after so many attempts, Technology is not as accessible to them as it should and there are very less solutions created keeping them in mind. Thus, we are trying to make Technology more accessible to them.
 
 ## Getting Started
